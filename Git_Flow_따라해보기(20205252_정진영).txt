@@ -8,3 +8,7 @@ Develop 3
 // 기능 추가는 아래 공간에 작성
 Feature 1
 Feature 2
+
+// [Release]
+// main 병합 직전 추가 사항을 아래 공간에 작성
+Release 1
