@@ -1,5 +1,21 @@
 // [Develop]
 // 개발할 코드는 아래 공간에 작성
+Develop 1
+Develop 2
+Develop 3
+
+// [Feature2]
+// 기능 추가는 아래 공간에 작성
+Feature 1
+Feature 2
+
+// [Release]
+// main 병합 직전 추가 사항을 아래 공간에 작성
+Release 1
+Release 2
 
 // <main v0.2>
 // 병합 전까지 아래가 아닌 위 공간에서 작성
+
+// <main v1.0>
+// 위 내용까지가 main v1.0의 내용, 추후 업데이트 사항은 아래에 작성
