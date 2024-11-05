@@ -2,3 +2,7 @@
 // 개발할 코드는 아래 공간에 작성
 Develop 1
 Develop 2
+
+// [Feature2]
+// 기능 추가는 아래 공간에 작성
+Feature 1
