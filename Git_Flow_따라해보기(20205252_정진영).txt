@@ -12,3 +12,4 @@ Feature 2
 // [Release]
 // main 병합 직전 추가 사항을 아래 공간에 작성
 Release 1
+Release 2
